@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "278984895352",
+    "project_id": "fluttersocnetcourse",
+    "storage_bucket": "fluttersocnetcourse.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:278984895352:android:5d6496d36095aa1599b68d",
+        "android_client_info": {
+          "package_name": "com.leewr.socnet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "278984895352-8vahuqmquk6jbc5d4oeb3f927b8a9vqd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.leewr.socnet",
+            "certificate_hash": "b196cc8b3dd4a6f50174569468c9c20381f05017"
+          }
+        },
+        {
+          "client_id": "278984895352-0q0u9sqk4hgaeqeu0ke1hq1sk9rbns0e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdknS1I9zLEGyOint_WNZE82PNAMUUvUs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "278984895352-0q0u9sqk4hgaeqeu0ke1hq1sk9rbns0e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
