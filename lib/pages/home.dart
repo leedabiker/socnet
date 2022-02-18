@@ -21,7 +21,7 @@ class _HomeState extends State<Home> {
           gradient: LinearGradient(
             begin: Alignment.topRight,
             end: Alignment.bottomLeft,
-            colors: [Colors.teal, Colors.purple],
+            colors: [Theme.of(context).primaryColor, Theme.of(context).colorScheme.secondary],
           ),
         ),
         alignment: Alignment.center,
