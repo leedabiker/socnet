@@ -1,5 +1,3 @@
-import 'dart:html';
-
 import 'package:flutter/widgets.dart';
 
 class ActivityFeed extends StatefulWidget {
